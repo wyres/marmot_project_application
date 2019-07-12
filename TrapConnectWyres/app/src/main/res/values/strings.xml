@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrapConnectWyres</string>
+
+    <string name="title_activity_google_maps_trap">Map</string>
+    <string name="menu_refresh">menu_refresh</string>
+</resources>
